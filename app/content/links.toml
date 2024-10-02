@@ -1,7 +1,11 @@
 
 sections = [
-	{ heading = 'asdfasdfasdf', links = [
-		{ title = 'asdfasdfasdfasdfasdf', url = 'https://google.com', icon = 'ph:address-book-duotone' },
-		{ title = 'yoooooooo', url = 'https://google.com' },
+	{ heading = 'Your Trusted Partner for Innovative Solutions and Expert Support', description = "Welcome to our website! We're dedicated to providing high-quality services that meet your needs. Whether you're looking for innovative solutions, expert advice, or reliable support, we are here to help. Our team is committed to delivering exceptional value and ensuring your satisfaction every step of the way.\n\nFeel free to explore our offerings and get in touch with any questions. We look forward to working with you and helping you achieve your goals.", links = [
+		{ title = 'Learn More About Our Services', url = 'https://google.com', icon = 'ph:address-book-duotone' },
+		{ title = 'Contact Our Support Team', url = 'https://google.com' },
+		{ title = 'Explore Our Latest Projects', url = 'https://google.com' },
+	] },
+	{ heading = 'Unlock Your Potential with Tailored Solutions', links = [
+		{ title = 'Read Customer Testimonials', url = 'https://google.com' },
 	] },
 ]
