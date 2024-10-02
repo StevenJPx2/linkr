@@ -5,7 +5,7 @@ media:
 content:
   - name: links
     label: Links
-    path: app/content/links
+    path: app/content/links.toml
     type: file
     format: toml
     fields:
