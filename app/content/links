@@ -1,7 +1,0 @@
-
-sections = [
-	{ heading = 'asdfasdfasdf', links = [
-		{ title = 'asdfasdfasdfasdfasdf', url = 'https://google.com', icon = 'ph:address-book-duotone' },
-		{ title = 'yoooooooo', url = 'https://google.com' },
-	] },
-]
