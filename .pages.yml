@@ -13,7 +13,7 @@ content:
         label: Sections
         type: object
         list: true
-        fields: 
+        fields:
           - { name: heading, label: Heading, type: string, required: true }
           - name: links
             label: Links
@@ -24,4 +24,3 @@ content:
               - { name: title, label: Title, type: string, required: true }
               - { name: url, label: URL, type: string, required: true }
               - { name: icon, label: Icon, type: string }
-      
