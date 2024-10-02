@@ -15,6 +15,7 @@ content:
         list: true
         fields:
           - { name: heading, label: Heading, type: string, required: true }
+          - { name: description, label: Description, type: text }
           - name: links
             label: Links
             type: object
