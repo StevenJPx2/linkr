@@ -30,7 +30,7 @@ const links = await usePagesFile("links");
             <Icon
               v-if="link.icon"
               :name="link.icon"
-              class="h-6 w-6 text-blue-950"
+              class="h-6 w-6 text-blue-950 flex-shrink-0"
             />
             {{ link.title }}
           </NuxtLink>
