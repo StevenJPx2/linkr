@@ -1,75 +1,20 @@
-# Nuxt 3 Minimal Starter
+# Linkr
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Ever heard of [Linktree](https://linktr.ee/) but don't know where to start? Linkr is a simple way to share links.
 
-## Setup
+## Features
+- 🆓 Free and Open source
+- 🎨 Customizable
 
-Make sure to install the dependencies:
+## Installation
 
-```bash
-# npm
-npm install
+```sh
+npx degit StevenJPx2/linkr linkr
 
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
+It's a simple Nuxt project, so you can customize it to your needs.
 
-Start the development server on `http://localhost:3000`:
+## Content Management
 
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+This project uses [Pages CMS](https://github.com/pages-cms/pages-cms) and integrates it using the [Nuxt Pages CMS module](https://github.com/stevenjpx2/nuxt-pagescms).
