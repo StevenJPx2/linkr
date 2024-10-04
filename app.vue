@@ -25,7 +25,7 @@ const links = await usePagesFile("links");
         <li v-for="link in section.links" :key="link.title">
           <NuxtLink
             :to="link.url"
-            class="flex items-center gap-2 py-3 rounded-lg border border-slate-400 hover:bg-blue-100 px-3 text-sm font-medium text-gray-900"
+            class="flex items-center gap-2 py-3 rounded-lg border border-slate-400 hover:bg-blue-100 px-3 text-sm font-medium text-gray-900 transition duration-300 hover:scale-[1.02]"
           >
             <Icon
               v-if="link.icon"
