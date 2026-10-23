@@ -1,0 +1,17 @@
+{
+  "body": [
+    "A **Linktree-style page** for sharing links: a **Nuxt** project that you copy with `npx degit StevenJPx2/linkr` and customise yourself.",
+    "Content is edited through **Pages CMS** by way of the `nuxt-pagescms` module. Install the GitHub app on your repo and you can change the links **without writing code**."
+  ],
+  "areas": [
+    "web-applications"
+  ],
+  "technologies": {
+    "add": [
+      "tailwind"
+    ],
+    "remove": [
+      "typescript"
+    ]
+  }
+}
